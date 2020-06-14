@@ -39,7 +39,7 @@ pip freeze
 
 # pip update
 
-pip install  pip
+python -m pip install --upgrade pip
 
 # pip update mac linux
 
