@@ -26,31 +26,39 @@ python -m venv venv
 
 ## start
 
-# windows
-
-. venv/Scripts/activate
-
-# linux mac
-
-. venv/bin/activate
-
-```.
-pip freeze
-
-# pip update
-
-python -m pip install --upgrade pip
-
-# pip update mac linux
-
-pip install -U pip
-
-pip install django
-
+### windows
 
 ```
+. venv/Scripts/activate
+```
 
-## django cmd
+### linux mac
+
+```
+. venv/bin/activate
+```
+
+```
+pip freeze
+```
+
+### pip update windows
+
+```
+python -m pip install --upgrade pip
+```
+
+### pip update mac linux
+
+```
+pip install -U pip
+```
+
+### django install
+
+```
+pip install django
+```
 
 ### start project
 
