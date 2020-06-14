@@ -37,9 +37,12 @@ python -m venv venv
 ```
 . venv/bin/activate
 ```
+### check pip python module
 
 ```
 pip freeze
+
+// may be module 
 ```
 
 ### pip update windows
