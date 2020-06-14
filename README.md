@@ -42,7 +42,7 @@ python -m venv venv
 ```
 pip freeze
 
-// may be module 
+//  module nothing in pip 
 ```
 
 ### pip update windows
